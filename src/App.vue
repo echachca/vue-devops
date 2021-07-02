@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="테스트 성공" />
+  <HelloWorld msg="대전1반 김기도" />
 </template>
 
 <script>
